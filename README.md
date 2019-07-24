@@ -176,9 +176,9 @@ RE:relation extraction
    ACL 2016.
    [paper](https://www.aclweb.org/anthology/P16-2034)
 
-   > we propose Attention-Based Bidirectional Long Short-Term Memory Networks (AttBLSTM) to capture the most important semantic information in a sentence.
+   > We propose Attention-Based Bidirectional Long Short-Term Memory Networks (AttBLSTM) to capture the most important semantic information in a sentence.
 
-10. **A Walk-based Model on Entity Graphs for Relation Extraction.**
+1. **A Walk-based Model on Entity Graphs for Relation Extraction.**
    _Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou._
    ACL 2018.
    [paper](http://aclweb.org/anthology/P18-2014#page=6&zoom=100,0,313)
