@@ -1,8 +1,6 @@
 # Papers on RE
 RE:relation extraction
 
-Contributed by Jinxin Yao.
-
 ## Survey Papers
 
 1. **Relation Extraction Using Distant Supervision: A Survey.**
