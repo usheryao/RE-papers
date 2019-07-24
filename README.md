@@ -6,7 +6,7 @@ RE:relation extraction
 1. **Relation Extraction Using Distant Supervision: A Survey.**
    _ALISA SMIRNOVA and PHILIPPE CUDRÉ-MAUROUX._
    ACM Computing Surveys 2018.
-   [paper](http://delivery.acm.org/10.1145/3250000/3241741/a106-smirnova.pdf?ip=59.78.194.177&id=3241741&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E035EACC12F524219%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1563971114_569f11f482ac5d9e2183386a3e3efe26)
+   [paper](https://exascale.info/assets/pdf/smirnova2019acmcsur.pdf)
 
 2. **A Survey of Deep Learning Methods for Relation Extraction.**
    _Shantanu Kumar._
