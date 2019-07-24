@@ -1,5 +1,6 @@
 # Papers on RE
-RE:relation extraction
+RE : relation extraction
+
 Most papers are from [link](https://github.com/thunlp/NREPapers), the other are contributed by Jinxin Yao.
 
 ## Survey Papers
