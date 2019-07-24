@@ -92,7 +92,7 @@ Most papers are from [link](https://github.com/thunlp/NREPapers), the other are 
 
     > This paper presents a novel approach for multi-instance learning with overlapping re- lations that combines a sentence-level extrac- tion model with a simple, corpus-level compo- nent for aggregating the individual facts.
 
-5. **Multi-instanceMulti-labelLearningforRelationExtraction.**
+5. **Multi-instance Multi-label Learning for Relation Extraction.**
   _Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati, Christopher D. Manning._
   EMNLP 2012.
   [paper](https://www.aclweb.org/anthology/D12-1042)
