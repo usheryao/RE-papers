@@ -1,2 +1,4 @@
-# RE-papers
-papers for relation extraction
+# Papers on RE
+RE:relation extraction
+Contributed by Jinxin Yao.
+
