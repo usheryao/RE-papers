@@ -172,19 +172,19 @@ RE:relation extraction
    > In this paper, we present a novel model BRCNN to classify the relation of two entities in a sentence. We explore how to make full use of the dependency relations information in the SDP, by combining convolutional neural networks and two channel bi-recurrent neural networks with long short term memory (LSTM) units.
     
 9. **Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification.**
-   _PengZhou,WeiShi, JunTian, ZhenyuQi, BingchenLi, HongweiHao,BoXu._
+   _Peng Zhou, Wei Shi, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao, Bo Xu._
    ACL 2016.
    [paper](https://www.aclweb.org/anthology/P16-2034)
 
    > we propose Attention-Based Bidirectional Long Short-Term Memory Networks (AttBLSTM) to capture the most important semantic information in a sentence.
-   
+
 10. **A Walk-based Model on Entity Graphs for Relation Extraction.**
    _Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou._
    ACL 2018.
    [paper](http://aclweb.org/anthology/P18-2014#page=6&zoom=100,0,313)
    
-   > We present a novel graph-based neural network model for relation extraction. Our model treats multiple pairs in a sentence simultaneously and considers interactions among them. All the entities in a sentence are placed as nodes in a fully-connected graph structure.
-
+   >We present a novel graph-based neural network model for relation extraction. Our model treats multiple pairs in a sentence simultaneously and considers interactions among them. All the entities in a sentence are placed as nodes in a fully-connected graph structure.
+   
 ### Denoising Methods
 
 1. **Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks.**
