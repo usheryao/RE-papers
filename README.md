@@ -1,5 +1,6 @@
 # Papers on RE
 RE:relation extraction
+Most papers are from [link](https://github.com/thunlp/NREPapers), the other are contributed by Jinxin Yao.
 
 ## Survey Papers
 
@@ -144,7 +145,7 @@ RE:relation extraction
     > In this work we tackle the relation classification task using a convolutional neural network that performs classification by ranking (CR-CNN).
 
 5. **Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths.**
-  _YanXu, LiliMou, GeLi, YunchuanChen, HaoPeng, ZhiJin._
+  _Yan Xu, Lili Mou, Ge Li, Yunchuan Chen, Hao Peng, Zhi Jin._
   EMNLP 2015.
   [paper](https://www.aclweb.org/anthology/D15-1206)
 
@@ -165,7 +166,7 @@ RE:relation extraction
    > Our recurrent neural network based model captures both word sequence and dependency tree substructure information by stacking bidirectional tree-structured LSTM-RNNs on bidirectional sequential LSTM-RNNs... We further encourage detection of entities during training and use of entity information in relation extraction via entity pre-training and scheduled sampling.
    
 8. **Bidirectional Recurrent Convolutional Neural Network for Relation Classiﬁcation.**
-   _RuiCai, Xiaodong Zhang, Houfeng Wang._
+   _Rui Cai, Xiaodong Zhang, Houfeng Wang._
    ACL 2016.
    [paper](https://www.aclweb.org/anthology/P16-1072)
 
@@ -279,7 +280,7 @@ RE:relation extraction
      > we propose a neural pattern diagnosis framework, DIAG-NRE, that can automatically summarize and reﬁne highqualityrelationalpatternsfromnoisedatawith human experts in the loop.
      
 1. **Graph Neural Networks with Generated Parameters for Relation Extraction**
-   _Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, MaosongSun._
+   _Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, Maosong Sun._
    [paper](https://arxiv.org/pdf/1902.00756.pdf)
 
      >  In this paper,we propose to generate the parameters of graph neural networks (GP-GNNs) according to natural language sentences, which enables GNNs to process relational reasoning on unstructured text inputs.
